@@ -12,4 +12,10 @@ Comparing my finished project with the professor's, I observed that despite achi
 
 <a href="https://professorguanabara.github.io/projeto-cordel/"> Visit the original project </a>
 
-<a href="#"> Visit my project
+<a href="https://mttoledo.github.io/projeto-cordel/"> Visit my project
+
+## Screenshots
+
+<div align="center">
+  <img src="results/screenshot-result.png" alt="screenshot normal screen" width="100%" style="display: inline-block; margin: 0 10px;">
+</div>
