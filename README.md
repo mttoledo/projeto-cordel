@@ -8,6 +8,16 @@ Additionally, a workaround was implemented to substitute the media query feature
 
 Comparing my finished project with the professor's, I observed that despite achieving identical results, my code's structure varied slightly. My priority was to enhance readability as much as possible, and I believe I achieved a good result.
 
+## Tradução
+
+Site desenvolvido seguindo o módulo 3 do curso de HTML5 + CSS3 do CursoemVídeo, ministrado por Gustavo Guanabara.
+
+Neste projeto foi necessário aplicar diversos princípios relacionados à tag background, como o efeito parallax.
+
+Além disso, foi implementada uma solução alternativa para substituir o recurso de media query, utilizando a largura da viewport como medida para ajustar o tamanho da fonte em diferentes dimensões de tela.
+
+Comparando meu projeto final com o do professor, observei que apesar de obter resultados idênticos, a estrutura do meu código variou um pouco. Minha prioridade foi melhorar a legibilidade o máximo possível e acredito que tive um bom resultado.
+
 ## Access Here
 
 <a href="https://professorguanabara.github.io/projeto-cordel/"> Visit the original project </a>
