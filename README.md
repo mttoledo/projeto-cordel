@@ -2,7 +2,7 @@
 
 Website developed following module 3 of the course of HTML5 + CSS3 from CursoemVídeo, taught by Gustavo Guanabara.
 
-In this project, it was necessary to apply various principles related to the <background> tag, such as the parallax effect. 
+In this project, it was necessary to apply various principles related to the background tag, such as the parallax effect. 
 
 Additionally, a workaround was implemented to substitute the media query feature, using viewport width as a measure to adjust font size across different screen dimensions.
 
